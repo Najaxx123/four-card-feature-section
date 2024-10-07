@@ -18,6 +18,7 @@ main {
     height: 250px;
     box-shadow: 0px 15px 30px -11px #83A6D280;
     position:absolute; top: 200px; left: 700px;
+    padding-left: 8px;
 }
 
 .light_blue {
@@ -27,6 +28,7 @@ main {
     height: 250px;
     box-shadow: 0px 15px 30px -11px #83A6D280;
     position:absolute; top: 350px; left: 300px;
+    padding-left: 8px;
 }
 
 .yellow {
@@ -37,6 +39,7 @@ main {
     height: 250px;
     box-shadow: 0px 15px 30px -11px #83A6D280;
     position:absolute; top: 500px; left: 700px;
+    padding-left: 8px;
 }
 
 .dark_blue {
@@ -46,6 +49,7 @@ main {
     height: 250px;
     box-shadow: 0px 15px 30px -11px #83A6D280;
     position:absolute; top: 350px; left: 1100px;
+    padding-left: 8px;
 }
 
 p {
